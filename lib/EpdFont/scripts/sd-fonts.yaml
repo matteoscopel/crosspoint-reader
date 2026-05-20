@@ -123,7 +123,6 @@ families:
       italic:     {url: "https://mirrors.ctan.org/fonts/domitian/opentype/Domitian-Italic.otf"}
       bolditalic: {url: "https://mirrors.ctan.org/fonts/domitian/opentype/Domitian-BoldItalic.otf"}
 
-  
   - name: LibreBaskerville
     description: "A serif reimplementing the classic Baskerville (Latin)"
     intervals: latin-ext
