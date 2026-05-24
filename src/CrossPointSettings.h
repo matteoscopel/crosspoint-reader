@@ -126,7 +126,7 @@ class CrossPointSettings {
 
   // E-ink refresh frequency (pages between full refreshes)
   enum REFRESH_FREQUENCY {
-    REFRESH_OFF = 0,
+    REFRESH_NEVER = 0,
     REFRESH_1 = 1,
     REFRESH_5 = 2,
     REFRESH_10 = 3,
